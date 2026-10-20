@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tonewright.github.io/overtone-releases/"><img src="https://img.shields.io/github/v/release/tonewright/overtone-releases?filter=Timbre*&display_name=release&label=Download&labelColor=161920&color=d9c08a&style=for-the-badge" alt="Download Timbre"></a>
-  <a href="https://tonewright.github.io/overtone-releases/"><img src="https://img.shields.io/badge/Guides-161920?style=for-the-badge" alt="Guides"></a>
+  <a href="https://tonewright.github.io/"><img src="https://img.shields.io/github/v/release/tonewright/overtone-releases?filter=Timbre*&display_name=release&label=Download&labelColor=161920&color=d9c08a&style=for-the-badge" alt="Download Timbre"></a>
+  <a href="https://tonewright.github.io/guides.html"><img src="https://img.shields.io/badge/Guides-161920?style=for-the-badge" alt="Guides"></a>
+  <a href="https://discord.gg/QrD7CSGAbC"><img src="https://img.shields.io/badge/Discord-161920?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/tonewright/overtone-releases/issues"><img src="https://img.shields.io/badge/Report%20a%20problem-161920?style=for-the-badge" alt="Report a problem"></a>
 </p>
 
